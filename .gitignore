@@ -1,4 +1,3 @@
-[200~# Logs
 logs
 *.log
 npm-debug.log*
@@ -25,3 +24,4 @@ dist-ssr
 *.identifier
 
 .env~
+node_modules/
